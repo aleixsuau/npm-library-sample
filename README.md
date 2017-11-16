@@ -1,3 +1,4 @@
+````
 // GENERAL EXPLANATION FOR CONFIGS (PACKAGE, TSCONFIG, ROLLUP) TO CREATE AN NPM COMPATIBLE ANGULAR MODULE/LIBRARY
 // Based on:
 // https://medium.com/@cyrilletuzi/how-to-build-and-publish-an-angular-module-7ad19c0b4464
@@ -99,4 +100,5 @@ In the project where you want to use it:
 6 - Import and include it in "imports" in the module you want to use it
     import { YeahMakerModule } from 'angular-yeahmaker';
 */
+```
 
