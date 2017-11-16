@@ -10,6 +10,10 @@
   ],
   "author": "Jorge & Aleix",
   "license": "MIT",
+  "repository" : { 
+    "type" : "git",
+    "url" : "https://github.com/aleixsuau/npm-library-sample.git"
+  },
   "peerDependencies": {
     "@angular/core": "^4.4.6"
   },

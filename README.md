@@ -91,7 +91,8 @@ export default {
 1 - npm install (will install devDependencies)
 2 - npm run build
 3 - npm adduser (or login in npm)
-4 - cd dist && npm publish
+4 - Add packaje.json to /dist
+5 - cd dist && npm publish
 In the project where you want to use it:
 5 - npm install angular-yeahmaker --save
 6 - Import and include it in "imports" in the module you want to use it
